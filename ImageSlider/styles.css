@@ -1,0 +1,15 @@
+#frame {
+    width: 100%;
+    height: 100%;
+    border: 2px solid lightgray;
+    background-repeat: no-repeat;
+
+}
+
+#container {
+    padding: 40px;
+    width: 800px;
+    height: 480px;
+    background: rgb(246, 171, 81);
+    border-radius: 10px;
+}
